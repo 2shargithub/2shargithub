@@ -1,7 +1,8 @@
-## Hi there 👋
+<h1>Hi, I'm Tushar! <br/><a href="https://github.com/2shargithub">Data Engineer</a>, <a href="https://www.linkedin.com/in/tushar-sharma-74b964a2/"></h1>
+
 
 <!--
-**2shargithub/2shargithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
